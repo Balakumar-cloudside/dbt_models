@@ -16,3 +16,4 @@ Try running the following commands:
 # dbt_models
 # test-repo
 # test-repo
+# dbt_testing_db
